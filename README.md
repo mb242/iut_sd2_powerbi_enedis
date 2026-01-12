@@ -102,7 +102,7 @@ L’application vise à :
 
 ### Participants :  
 
-  - **[Arthur MALIERE](mailto:arthur.maliere@univ-lyon2.fr)**
+ 
   - **[Farès REDISSI](mailto:fares.redissi@univ-lyon2.fr)**
   - **[Elk-Fred MBAHOUKA](mailto:elk-fred.mbahouka@univ-lyon2.fr)**
     
