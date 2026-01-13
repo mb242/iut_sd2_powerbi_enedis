@@ -32,7 +32,7 @@ Elle permet de visualiser finement la performance énergétique des logements, d
 L’application vise à :
 
 - Visualiser la **répartition des étiquettes DPE ** sur la région
-- - Mettre en évidence les **passoires énergétiques** (F et G)
+- Mettre en évidence les **passoires énergétiques** (F et G)
  
 
 
