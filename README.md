@@ -97,22 +97,20 @@ URL de déploiement YouTube :
 
 OBSERVATOIRE_DPE_RHONE/
 │
-├── Power BI/
+├── powerbi/
 │   └── Observatoire_DPE_Rhone.pbix
 │
 ├── data/
-│   └── logements_rhone.csv
-|   └── Extraction Power BI DPE
+│   ├── logements_rhone.csv
+│   └── extraction_powerbi_dpe/
 │
 ├── docs/
 │   ├── doc_fonctionnelle.md
 │   └── doc_technique.md
-│
-├── assets/
-│   ├── screenshots/
-│   └── schema_modele.png
+│  
 │
 └── README.md
+
 
 
 
