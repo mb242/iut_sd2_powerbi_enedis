@@ -102,6 +102,9 @@ URL de déploiement : https://www.canva.com/design/DAG-NeCCZrQ/AH-dQltd8R5ObCuzS
 ## Architecture
 
 
+## Architecture
+
+```text
 OBSERVATOIRE_DPE_RHONE/
 ├── powerbi/
 │   └── Observatoire_DPE_Rhone.pbix
@@ -116,6 +119,7 @@ OBSERVATOIRE_DPE_RHONE/
 │
 └── README.md
 ```
+
 
 
 
