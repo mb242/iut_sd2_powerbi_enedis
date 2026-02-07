@@ -9,7 +9,6 @@
 - [À Propos](#à-propos)
 - [Fonctionnalités](#fonctionnalités)
 - [Démo](#démo)
-- [Utilisation](#utilisation)
 - [Architecture](#architecture)
 - [Technologies](#technologies)
 - [Documentation](#documentation)
