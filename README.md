@@ -21,7 +21,7 @@
 
 ### Contexte du Projet
 
-Cette application Power BI a été développée dans le cadre d’un **projet académique Utilisation avancée d'outils de reporting sous la supervion de Mathieu Gaultier (BUT Science des Données 2è année)**, à l’**IUT Lumière Lyon 2**.
+Cette application Power BI a été développée dans le cadre d’un **projet académique Utilisation avancée d'outils de reporting sous la supervion de Mr. Mathieu Gaultier (BUT Science des Données 2è année)**, à l’**IUT Lumière Lyon 2**.
 
 Dans un contexte de **transition énergétique**, de hausse des coûts de l’énergie et de lutte contre le changement climatique, ce projet vise à dresser un **état des lieux précis de la performance énergétique des logements** à l’échelle régionale.
 
@@ -68,8 +68,10 @@ L’application vise à :
   - Nuages de points
   - Tableaux détaillés
 - Analyse géographique (par commune / code postal)
-- **Sécurité des données (RLS)** selon le profil utilisateur
-
+- **Sécurité des données (RLS)**
+    selon le profil utilisateur :  - Farès REDISSI Type_Batiment == Appartement
+                                   - Arthur MALLIERE Type_Batiment == Maison
+                                   - Mathieu GAULTIER Type_Batiment IN ["Appartement";"Maison"; "Immeuble"]
 ---
 
 ## Démo
