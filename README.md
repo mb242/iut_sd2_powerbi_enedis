@@ -90,13 +90,19 @@ L’application vise à :
   - des analyses principales
 
 Vidéo de démonstration
-URL de déploiement YouTube :
+URL de déploiement YouTube : https://www.youtube.com/watch?v=zUL8k1AgcIg
 
+
+
+###  Maquette CANVA
+URL de déploiement : https://www.canva.com/design/DAG-NeCCZrQ/AH-dQltd8R5ObCuzSwxo7g/edit
 
 ## Architecture
 
+## Architecture
+
+
 OBSERVATOIRE_DPE_RHONE/
-│
 ├── powerbi/
 │   └── Observatoire_DPE_Rhone.pbix
 │
@@ -107,9 +113,10 @@ OBSERVATOIRE_DPE_RHONE/
 ├── docs/
 │   ├── doc_fonctionnelle.md
 │   └── doc_technique.md
-│  
 │
 └── README.md
+```
+
 
 
 
