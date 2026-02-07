@@ -10,7 +10,6 @@
 - [Fonctionnalités](#fonctionnalités)
 - [Démo](#démo)
 - [Architecture](#architecture)
-- [Technologies](#technologies)
 - [Documentation](#documentation)
 - [Contributeurs](#contributeurs)
 
