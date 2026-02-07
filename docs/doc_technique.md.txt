@@ -1,0 +1,69 @@
+# Documentation Technique  
+## Observatoire DPE du Rhône
+
+---
+
+## 1. Architecture générale
+
+L’application repose sur un **modèle décisionnel en étoile**, optimisé pour Power BI.
+
+- Table centrale : `Logements_Rhône`
+- Tables de dimensions :
+  - Calendrier
+  - Etiquette_DPE
+  - Etiquette_GES
+  - Type_Batiment
+  - Classe_Inertie
+  - Periode_Construction
+
+---
+
+## 2. Modèle de données
+
+### Table de faits – Logements_Rhône
+
+Contient :
+- Consommations énergétiques
+- Émissions de GES
+- Coûts
+- Surfaces
+- Clés de jointure
+
+### Dimensions
+
+- Dimensions qualitatives
+- Relations 1:N
+- Filtrage unidirectionnel
+
+---
+
+## 3. Relations
+
+Toutes les relations sont :
+- Cardinalité : Plusieurs à Un (*:1)
+- Direction : Dimension → Fait
+
+Cela garantit :
+- Performance DAX
+- Cohérence des filtres
+
+---
+
+## 4. Power Query – Nettoyage
+
+Principales transformations :
+- Gestion de l’encodage CSV (ISO-8859-1)
+- Normalisation des noms de communes
+- Typage strict des colonnes
+- Suppression des valeurs incohérentes
+- Création des tables de dimensions
+
+---
+
+## 5. DAX – Mesures clés
+
+Exemples :
+
+```DAX
+Nombre de Logements =
+COUNT(Logements_Rhône[numero_dpe])
