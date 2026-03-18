@@ -77,7 +77,7 @@ L’application vise à :
 ### Application Power BI
 
 - Application publiée sur **Power BI Online**
-- URL de déploiement accès via lien partagé (selon droits) : https://app.powerbi.com/groups/me/reports/e1d95c2e-3b33-4eef-bd4a-5edea13b98dc/3af0d614f5fcc0f9baa0?experience=power-bi
+- URL de déploiement accès via lien partagé (selon droits) : https://app.powerbi.com/groups/me/reports/2f844aae-13d6-4ee3-893c-d69ab68dc5da/3af0d614f5fcc0f9baa0?experience=power-bi
 
 
 ###  Vidéo de démonstration
